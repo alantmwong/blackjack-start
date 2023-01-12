@@ -1,5 +1,7 @@
 ############### Blackjack Project #####################
 
+# Author: Alan Wong
+# Date: 13/01/2023
 
 ############### Our Blackjack House Rules #####################
 
